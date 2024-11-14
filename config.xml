@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>vmobile</name>
+    <displayName><![CDATA[vmobile]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[this module is use to filter your products (mobile)]]></description>
+    <author><![CDATA[Achraf Moreau]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

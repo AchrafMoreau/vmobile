@@ -1,0 +1,8 @@
+imports:
+    - { resource: services.php }
+
+services:
+  vmobile_service:
+    class: Vmobile\Repository\VmobileRepository
+    arguments:
+      - '@doctrine.orm.entity_manager'
